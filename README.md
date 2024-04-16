@@ -1,2 +1,2 @@
 # Bus-Ticket-Booking-System
-Online Bus Ticket Booking System built with Spring Boot framework.
+The project built with RESTful API using Spring Boot framework, performs CRUD operations and field validations to the DTOs with custom exceptions.
